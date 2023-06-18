@@ -9,7 +9,7 @@
 Setup:
 It is recommenede to run the setup.sh first
 
-`c`hmod +x setup.sh``
+``chmod +x setup.sh``
 
 ``./setup.sh``
 
