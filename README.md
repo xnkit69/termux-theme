@@ -1,17 +1,17 @@
-##Installation:
 
-``pkg install git -y``
 
-``git clone https://github.com/xnkit69/z``
+pkg install git -y
 
-`cd` z``
+git clone https://github.com/xnkit69/z
 
-Setup:
+cd z
+
+
 It is recommenede to run the setup.sh first
 
-``chmod +x setup.sh``
+chmod +x setup.sh
 
-``./setup.sh``
+./setup.sh
 
-To Run:
-``./TermuxStyle``
+
+./TermuxStyle
