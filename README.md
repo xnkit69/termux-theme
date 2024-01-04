@@ -2,9 +2,9 @@
 
 pkg install git -y
 
-git clone https://github.com/xnkit69/z
+git clone https://github.com/xnkit69/termux-theme
 
-cd z
+cd termux-theme
 
 
 
